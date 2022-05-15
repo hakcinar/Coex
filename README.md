@@ -1,2 +1,2 @@
 # Coex
- Coex app with react js
+ Coex is basic expense calculator app but using with more people
