@@ -1,0 +1,35 @@
+.loginMain {
+  background-color: #f1f1e8;
+  width: 60rem;
+  height: 30rem;
+  border-radius: 1rem;
+  padding: 4rem 3rem;
+  display: flex;
+}
+.loginLogo {
+    padding: 1rem;
+    padding-top: 3rem;
+    width: 27rem;
+}
+.loginLogo h2 {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 500;
+  font-size: 1rem;
+}
+.loginLogo h5 {
+  font-weight: 500;
+  font-size: 1rem;
+}
+.loginForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 27rem;
+}
+.loginForm input{
+    width: 18rem;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+}
+

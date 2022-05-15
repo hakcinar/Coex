@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&family=Poppins:wght@200;400;600&display=swap');
+
+.logo{
+    font-family: 'poppins',"sans-serif";
+    background-color: #17B978;
+    color: #A7FF83;
+    width: 10rem;
+    height: 10rem;
+    font-size: 2.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 1rem;
+    font-weight: 700;
+}
